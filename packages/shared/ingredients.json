@@ -1,0 +1,25 @@
+{
+  "synonyms": {
+    "pomidor": ["pomidory", "pomidora", "pomidorów"],
+    "cebula": ["cebule", "cebuli", "cebulę"],
+    "czosnek": ["ząbek czosnku", "ząbki czosnku"],
+    "mąka": ["mąki", "mąkę"],
+    "jajko": ["jajka", "jaj"],
+    "mleko": ["mleka"],
+    "masło": ["masła"],
+    "ser": ["sera", "serów"],
+    "mięso": ["mięsa"],
+    "kurczak": ["kurczaka", "kurczaki"],
+    "ziemniak": ["ziemniaki", "ziemniaków", "ziemniaka"],
+    "marchew": ["marchewka", "marchewki", "marchewkę"],
+    "pietruszka": ["pietruszki"],
+    "sól": ["soli"],
+    "pieprz": ["pieprzu"],
+    "cukier": ["cukru"],
+    "olej": ["oleju"],
+    "woda": ["wody"],
+    "ryż": ["ryżu"],
+    "makaron": ["makaronu"],
+    "kapusta": ["kapusty", "kapustę"]
+  }
+}

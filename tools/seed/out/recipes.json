@@ -1,0 +1,688 @@
+{
+  "recipes": [
+    {
+      "title": "Naleśniki z serem",
+      "source": "centrumrespo.pl",
+      "url": "https://centrumrespo.pl/przepis/nalesniki-z-serem",
+      "meal_type": "breakfast",
+      "time_minutes": 25,
+      "image_url": null,
+      "tags": [
+        "polska kuchnia",
+        "tradycyjne",
+        "słodkie"
+      ],
+      "steps_excerpt": "Klasyczne naleśniki z twarogiem. Idealne na śniadanie dla całej rodziny.",
+      "ingredients": [
+        "mąka",
+        "mleko",
+        "jajka",
+        "ser biały",
+        "cukier",
+        "sól",
+        "masło"
+      ],
+      "normalized_ingredients": [
+        "mąka",
+        "mleko",
+        "jajko",
+        "ser biał",
+        "cukier",
+        "sól",
+        "masło"
+      ]
+    },
+    {
+      "title": "Owsianka z owocami",
+      "source": "kwestiasmaku.com",
+      "url": "https://kwestiasmaku.com/przepis/owsianka-owocami",
+      "meal_type": "breakfast",
+      "time_minutes": 10,
+      "image_url": null,
+      "tags": [
+        "zdrowe",
+        "owoce",
+        "śniadanie"
+      ],
+      "steps_excerpt": "Zdrowa owsianka z sezonowymi owocami. Pełnowartościowe śniadanie.",
+      "ingredients": [
+        "płatki owsiane",
+        "mleko",
+        "miód",
+        "jabłko",
+        "banany",
+        "jagody",
+        "orzechy"
+      ],
+      "normalized_ingredients": [
+        "płatki owsiane",
+        "mleko",
+        "miód",
+        "jabłko",
+        "banan",
+        "jagod",
+        "orzech"
+      ]
+    },
+    {
+      "title": "Jajecznica z ziemniakami",
+      "source": "centrumrespo.pl",
+      "url": "https://centrumrespo.pl/przepis/jajecznica-ziemniaki",
+      "meal_type": "breakfast",
+      "time_minutes": 20,
+      "image_url": null,
+      "tags": [
+        "tradycyjne",
+        "jajka",
+        "ziemniaki"
+      ],
+      "steps_excerpt": "Syta jajecznica z gotowanymi ziemniakami. Klasyczne śniadanie na ciepło.",
+      "ingredients": [
+        "jajka",
+        "ziemniaki",
+        "cebula",
+        "masło",
+        "szynka",
+        "szczypiorek",
+        "sól",
+        "pieprz"
+      ],
+      "normalized_ingredients": [
+        "jajko",
+        "ziemniak",
+        "cebula",
+        "masło",
+        "szynka",
+        "szczypiorek",
+        "sól",
+        "pieprz"
+      ]
+    },
+    {
+      "title": "Tosty z awokado",
+      "source": "kwestiasmaku.com",
+      "url": "https://kwestiasmaku.com/przepis/tosty-awokado",
+      "meal_type": "breakfast",
+      "time_minutes": 10,
+      "image_url": null,
+      "tags": [
+        "zdrowe",
+        "awokado",
+        "szybkie"
+      ],
+      "steps_excerpt": "Modne tosty z awokado i jajkiem. Zdrowe i syte śniadanie.",
+      "ingredients": [
+        "chleb pełnoziarnisty",
+        "awokado",
+        "jajko",
+        "cytryna",
+        "pomidor",
+        "sól",
+        "pieprz",
+        "rukola"
+      ],
+      "normalized_ingredients": [
+        "chleb pełnoziarnist",
+        "awokado",
+        "jajko",
+        "cytryna",
+        "pomidor",
+        "sól",
+        "pieprz",
+        "rukola"
+      ]
+    },
+    {
+      "title": "Pancakes amerykańskie",
+      "source": "centrumrespo.pl",
+      "url": "https://centrumrespo.pl/przepis/pancakes-amerykanskie",
+      "meal_type": "breakfast",
+      "time_minutes": 20,
+      "image_url": null,
+      "tags": [
+        "słodkie",
+        "amerykańskie",
+        "puszyste"
+      ],
+      "steps_excerpt": "Puszyste pancakes jak z amerykańskiego filmu. Idealne na leniwą niedzielę.",
+      "ingredients": [
+        "mąka",
+        "mleko",
+        "jajka",
+        "cukier",
+        "proszek do pieczenia",
+        "masło",
+        "syrop klonowy",
+        "jagody"
+      ],
+      "normalized_ingredients": [
+        "mąka",
+        "mleko",
+        "jajko",
+        "cukier",
+        "proszek do pieczenia",
+        "masło",
+        "syrop klonow",
+        "jagod"
+      ]
+    },
+    {
+      "title": "Kotlet schabowy z ziemniakami",
+      "source": "kwestiasmaku.com",
+      "url": "https://kwestiasmaku.com/przepis/kotlet-schabowy",
+      "meal_type": "lunch",
+      "time_minutes": 45,
+      "image_url": null,
+      "tags": [
+        "polska kuchnia",
+        "mięso",
+        "obiad"
+      ],
+      "steps_excerpt": "Tradycyjny kotlet schabowy w panierce, podawany z ziemniakami i mizerią.",
+      "ingredients": [
+        "schab",
+        "jajka",
+        "mąka",
+        "bułka tarta",
+        "ziemniaki",
+        "ogórek kiszony",
+        "sól",
+        "pieprz"
+      ],
+      "normalized_ingredients": [
+        "schab",
+        "jajko",
+        "mąka",
+        "bułka tarta",
+        "ziemniak",
+        "ogórek kiszon",
+        "sól",
+        "pieprz"
+      ]
+    },
+    {
+      "title": "Pierogi ruskie",
+      "source": "centrumrespo.pl",
+      "url": "https://centrumrespo.pl/przepis/pierogi-ruskie",
+      "meal_type": "lunch",
+      "time_minutes": 60,
+      "image_url": null,
+      "tags": [
+        "polska kuchnia",
+        "tradycyjne",
+        "ziemniaki"
+      ],
+      "steps_excerpt": "Klasyczne pierogi z nadzieniem ziemniaczano-serowym. Prawdziwa polska tradycja.",
+      "ingredients": [
+        "mąka",
+        "jajka",
+        "ziemniaki",
+        "ser biały",
+        "cebula",
+        "masło",
+        "śmietana",
+        "sól"
+      ],
+      "normalized_ingredients": [
+        "mąka",
+        "jajko",
+        "ziemniak",
+        "ser biał",
+        "cebula",
+        "masło",
+        "śmietana",
+        "sól"
+      ]
+    },
+    {
+      "title": "Gulasz węgierski",
+      "source": "kwestiasmaku.com",
+      "url": "https://kwestiasmaku.com/przepis/gulasz-wegierski",
+      "meal_type": "lunch",
+      "time_minutes": 90,
+      "image_url": null,
+      "tags": [
+        "mięso",
+        "papryka",
+        "długo gotowane"
+      ],
+      "steps_excerpt": "Aromatyczny gulasz z wołowiną i papryką. Długo duszony dla pełni smaku.",
+      "ingredients": [
+        "wołowina",
+        "cebula",
+        "papryka czerwona",
+        "pomidory",
+        "papryka słodka",
+        "czosnek",
+        "bulion",
+        "sól"
+      ],
+      "normalized_ingredients": [
+        "wołowina",
+        "cebula",
+        "papryka czerwona",
+        "pomidor",
+        "papryka słodka",
+        "czosnek",
+        "bulion",
+        "sól"
+      ]
+    },
+    {
+      "title": "Ryba w cieście",
+      "source": "centrumrespo.pl",
+      "url": "https://centrumrespo.pl/przepis/ryba-ciescie",
+      "meal_type": "lunch",
+      "time_minutes": 35,
+      "image_url": null,
+      "tags": [
+        "ryba",
+        "smażone",
+        "tradycyjne"
+      ],
+      "steps_excerpt": "Chrupiąca ryba w cieście naleśnikowym. Klasyczne danie na piątek.",
+      "ingredients": [
+        "filet z ryby",
+        "mąka",
+        "jajka",
+        "mleko",
+        "olej",
+        "cytryna",
+        "sól",
+        "pieprz",
+        "koper"
+      ],
+      "normalized_ingredients": [
+        "filet z ryb",
+        "mąka",
+        "jajko",
+        "mleko",
+        "olej",
+        "cytryna",
+        "sól",
+        "pieprz",
+        "koper"
+      ]
+    },
+    {
+      "title": "Kotlety mielone",
+      "source": "kwestiasmaku.com",
+      "url": "https://kwestiasmaku.com/przepis/kotlety-mielone",
+      "meal_type": "lunch",
+      "time_minutes": 30,
+      "image_url": null,
+      "tags": [
+        "mięso mielone",
+        "tradycyjne",
+        "obiad"
+      ],
+      "steps_excerpt": "Soczyste kotlety mielone z cebulą i bułką. Domowy smak z dzieciństwa.",
+      "ingredients": [
+        "mięso mielone",
+        "jajka",
+        "bułka",
+        "mleko",
+        "cebula",
+        "czosnek",
+        "pietruszka",
+        "sól",
+        "pieprz"
+      ],
+      "normalized_ingredients": [
+        "mięso mielone",
+        "jajko",
+        "bułka",
+        "mleko",
+        "cebula",
+        "czosnek",
+        "pietruszka",
+        "sól",
+        "pieprz"
+      ]
+    },
+    {
+      "title": "Kanapki z pastą jajeczną",
+      "source": "centrumrespo.pl",
+      "url": "https://centrumrespo.pl/przepis/kanapki-pasta-jajeczna",
+      "meal_type": "snack",
+      "time_minutes": 15,
+      "image_url": null,
+      "tags": [
+        "szybkie danie",
+        "przekąska",
+        "jajka"
+      ],
+      "steps_excerpt": "Proste i syte kanapki z domową pastą jajeczną. Idealne na drugie śniadanie.",
+      "ingredients": [
+        "jajka",
+        "chleb",
+        "masło",
+        "majonezy",
+        "szczypiorek",
+        "sól",
+        "pieprz"
+      ],
+      "normalized_ingredients": [
+        "jajko",
+        "chleb",
+        "masło",
+        "majonez",
+        "szczypiorek",
+        "sól",
+        "pieprz"
+      ]
+    },
+    {
+      "title": "Smoothie zielone",
+      "source": "kwestiasmaku.com",
+      "url": "https://kwestiasmaku.com/przepis/smoothie-zielone",
+      "meal_type": "snack",
+      "time_minutes": 5,
+      "image_url": null,
+      "tags": [
+        "zdrowe",
+        "warzywa",
+        "napój"
+      ],
+      "steps_excerpt": "Odżywczy napój pełen witamin. Idealny na przekąskę między posiłkami.",
+      "ingredients": [
+        "szpinak",
+        "banan",
+        "jabłko",
+        "ogórek",
+        "imbir",
+        "cytryna",
+        "woda"
+      ],
+      "normalized_ingredients": [
+        "szpinak",
+        "banan",
+        "jabłko",
+        "ogórek",
+        "imbir",
+        "cytryna",
+        "woda"
+      ]
+    },
+    {
+      "title": "Muffiny z jagodami",
+      "source": "centrumrespo.pl",
+      "url": "https://centrumrespo.pl/przepis/muffiny-jagody",
+      "meal_type": "snack",
+      "time_minutes": 30,
+      "image_url": null,
+      "tags": [
+        "słodkie",
+        "owoce",
+        "pieczenie"
+      ],
+      "steps_excerpt": "Puszyste muffiny z świeżymi jagodami. Idealne na popołudniową przekąskę.",
+      "ingredients": [
+        "mąka",
+        "cukier",
+        "jajka",
+        "masło",
+        "mleko",
+        "jagody",
+        "proszek do pieczenia",
+        "wanilia"
+      ],
+      "normalized_ingredients": [
+        "mąka",
+        "cukier",
+        "jajko",
+        "masło",
+        "mleko",
+        "jagod",
+        "proszek do pieczenia",
+        "wanilia"
+      ]
+    },
+    {
+      "title": "Hummus z warzywami",
+      "source": "kwestiasmaku.com",
+      "url": "https://kwestiasmaku.com/przepis/hummus-warzywa",
+      "meal_type": "snack",
+      "time_minutes": 15,
+      "image_url": null,
+      "tags": [
+        "zdrowe",
+        "warzywa",
+        "wegańskie"
+      ],
+      "steps_excerpt": "Kremowy hummus z tahini podawany z paluszkami warzyw. Zdrowa przekąska.",
+      "ingredients": [
+        "ciecierzyca",
+        "tahini",
+        "czosnek",
+        "cytryna",
+        "oliwa",
+        "marchew",
+        "papryka",
+        "ogórek",
+        "sól"
+      ],
+      "normalized_ingredients": [
+        "ciecierzyca",
+        "tahin",
+        "czosnek",
+        "cytryna",
+        "oliwa",
+        "marchew",
+        "papryka",
+        "ogórek",
+        "sól"
+      ]
+    },
+    {
+      "title": "Ciasteczka owsiane",
+      "source": "centrumrespo.pl",
+      "url": "https://centrumrespo.pl/przepis/ciasteczka-owsiane",
+      "meal_type": "snack",
+      "time_minutes": 25,
+      "image_url": null,
+      "tags": [
+        "słodkie",
+        "owsiane",
+        "pieczenie"
+      ],
+      "steps_excerpt": "Chrupiące ciasteczka owsiane z rodzynkami. Idealne do herbaty.",
+      "ingredients": [
+        "płatki owsiane",
+        "mąka",
+        "masło",
+        "cukier",
+        "jajko",
+        "rodzynki",
+        "cynamon",
+        "proszek do pieczenia"
+      ],
+      "normalized_ingredients": [
+        "płatki owsiane",
+        "mąka",
+        "masło",
+        "cukier",
+        "jajko",
+        "rodzynk",
+        "cynamon",
+        "proszek do pieczenia"
+      ]
+    },
+    {
+      "title": "Sałatka grecka",
+      "source": "kwestiasmaku.com",
+      "url": "https://kwestiasmaku.com/przepis/salatka-grecka",
+      "meal_type": "dinner",
+      "time_minutes": 20,
+      "image_url": null,
+      "tags": [
+        "zdrowe",
+        "warzywa",
+        "kolacja"
+      ],
+      "steps_excerpt": "Świeża sałatka grecka z fetą i oliwkami. Lekka kolacja pełna witamin.",
+      "ingredients": [
+        "pomidory",
+        "ogórek",
+        "papryka",
+        "cebula",
+        "ser feta",
+        "oliwki",
+        "oliwa",
+        "oregano"
+      ],
+      "normalized_ingredients": [
+        "pomidor",
+        "ogórek",
+        "papryka",
+        "cebula",
+        "ser feta",
+        "oliwk",
+        "oliwa",
+        "oregano"
+      ]
+    },
+    {
+      "title": "Zupa krem z brokułów",
+      "source": "centrumrespo.pl",
+      "url": "https://centrumrespo.pl/przepis/zupa-krem-brokulow",
+      "meal_type": "dinner",
+      "time_minutes": 35,
+      "image_url": null,
+      "tags": [
+        "zdrowe",
+        "warzywa",
+        "zupa"
+      ],
+      "steps_excerpt": "Kremowa zupa z brokułów z dodatkiem śmietany. Lekka i syta kolacja.",
+      "ingredients": [
+        "brokuły",
+        "cebula",
+        "czosnek",
+        "bulion warzywny",
+        "śmietana",
+        "masło",
+        "sól",
+        "pieprz"
+      ],
+      "normalized_ingredients": [
+        "brokuł",
+        "cebula",
+        "czosnek",
+        "bulion warzywn",
+        "śmietana",
+        "masło",
+        "sól",
+        "pieprz"
+      ]
+    },
+    {
+      "title": "Wrap z kurczakiem",
+      "source": "kwestiasmaku.com",
+      "url": "https://kwestiasmaku.com/przepis/wrap-kurczak",
+      "meal_type": "dinner",
+      "time_minutes": 25,
+      "image_url": null,
+      "tags": [
+        "kurczak",
+        "warzywa",
+        "szybkie"
+      ],
+      "steps_excerpt": "Kolorowy wrap z grillowanym kurczakiem i świeżymi warzywami. Lekka kolacja.",
+      "ingredients": [
+        "tortilla",
+        "kurczak",
+        "sałata",
+        "pomidor",
+        "ogórek",
+        "papryka",
+        "sos czosnkowy",
+        "ser"
+      ],
+      "normalized_ingredients": [
+        "tortilla",
+        "kurczak",
+        "sałata",
+        "pomidor",
+        "ogórek",
+        "papryka",
+        "sos czosnkow",
+        "ser"
+      ]
+    },
+    {
+      "title": "Risotto z grzybami",
+      "source": "centrumrespo.pl",
+      "url": "https://centrumrespo.pl/przepis/risotto-grzyby",
+      "meal_type": "dinner",
+      "time_minutes": 40,
+      "image_url": null,
+      "tags": [
+        "ryż",
+        "grzyby",
+        "kremowe"
+      ],
+      "steps_excerpt": "Kremowe risotto z grzybami leśnymi. Elegancka kolacja o bogatym smaku.",
+      "ingredients": [
+        "ryż arborio",
+        "grzyby",
+        "cebula",
+        "czosnek",
+        "wino białe",
+        "bulion",
+        "parmezan",
+        "masło",
+        "pietruszka"
+      ],
+      "normalized_ingredients": [
+        "ryż arborio",
+        "grzyb",
+        "cebula",
+        "czosnek",
+        "wino białe",
+        "bulion",
+        "parmezan",
+        "masło",
+        "pietruszka"
+      ]
+    },
+    {
+      "title": "Łosoś z warzywami",
+      "source": "kwestiasmaku.com",
+      "url": "https://kwestiasmaku.com/przepis/losos-warzywa",
+      "meal_type": "dinner",
+      "time_minutes": 35,
+      "image_url": null,
+      "tags": [
+        "ryba",
+        "zdrowe",
+        "pieczone"
+      ],
+      "steps_excerpt": "Pieczony łosoś z kolorową mieszanką warzyw. Zdrowa i elegancka kolacja.",
+      "ingredients": [
+        "łosoś",
+        "brokuły",
+        "marchew",
+        "cukinia",
+        "papryka",
+        "oliwa",
+        "cytryna",
+        "czosnek",
+        "tymianek"
+      ],
+      "normalized_ingredients": [
+        "łosoś",
+        "brokuł",
+        "marchew",
+        "cukinia",
+        "papryka",
+        "oliwa",
+        "cytryna",
+        "czosnek",
+        "tymianek"
+      ]
+    }
+  ],
+  "count": 20,
+  "scraped_at": "2025-08-10 15:33:25"
+}
